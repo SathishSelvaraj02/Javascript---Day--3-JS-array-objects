@@ -1,0 +1,53 @@
+{
+    "settings": {
+        "icons" : true
+    },
+    "firstname": "Sathish",
+    "familyname": "Selvaraj",
+    "github_id": "SathishSelvaraj02",
+    "bio_data": {
+        "email": "sathishselvaraj0210@gmail.com",
+        "phone": "9994373095",
+	"summary": {
+		"points":[
+		"Hard worker, quick learner, and Responsible"
+		]
+	},
+        "skills": {
+            "details": [
+                {
+                    "type": "Programming Languages",
+                    "items": [
+                        "Python",
+                        "HTML, CSS",
+                        "Javascript",
+                    ]
+                },
+                {
+                    "type": "Web Frameworks",
+                    "items": [
+                        "Flask",
+                        "Django",
+                    ]
+                },
+                {
+                    "type": "Databases",
+                    "items": [
+                        "MySQL",
+                        "MongoDB",
+                    ]
+                }
+            ]
+        },
+        "education": {
+	    "show_gpa": true,
+            "schools": [
+                {
+                    "degree": "Bachelor of Engineering",
+                    "major": "Computer Science Engineering",
+                    "institution": "Sri Ramakrishna Institute of Technology (SRIT)",
+                    "graduation_year": 2021,
+                    "gpa": "7.28/10"
+                }
+            ]
+        }
